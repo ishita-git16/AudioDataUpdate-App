@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -26,6 +26,12 @@
 
 .App-link {
   color: #61dafb;
+} */
+
+/* .audiodata{
+  background-color: #61dafb;
+  min-height: 100vh;
+
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +41,5 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
