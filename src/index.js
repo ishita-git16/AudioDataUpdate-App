@@ -5,8 +5,8 @@ import App from './App';
 import axios from "axios";
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
-document.body.style = 'background: #212121;';
-// document.body.style = 'background: #FFF;';
+// document.body.style = 'background: #212121;';
+document.body.style = 'background: #FFF;';
 
 // const base_ip = window.location.href.replace("http://", "").split(":")[0];
 

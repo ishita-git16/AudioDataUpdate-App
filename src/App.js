@@ -5,8 +5,8 @@ import Navigation from "./Components/Navigation";
 export default function App() {
   return (
     <>
-      {/* <Navigation></Navigation> */}
-      <HomePage></HomePage>
+      <Navigation></Navigation>
+      {/* <HomePage></HomePage> */}
     </>
   );
 }
